@@ -26,5 +26,8 @@
     "eslint-plugin-react": "^6.2.2",
     "eslint-plugin-require-path-exists": "^1.1.5",
     "eslint-plugin-standard": "^2.0.0"
+  },
+  "devDependencies": {
+    "react": "^15.3.1"
   }
 }
