@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-max",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Standard-based ESLint config for myself",
   "main": "index.js",
   "scripts": {
