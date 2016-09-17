@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config-max",
+  "version": "0.0.1",
+  "description": "Standard-based ESLint config for myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maximilianschmitt/eslint-config-max.git"
+  },
+  "author": "Wunderflats GmbH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximilianschmitt/eslint-config-max/issues"
+  },
+  "homepage": "https://github.com/maximilianschmitt/eslint-config-max",
+  "dependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.1",
+    "eslint-config-standard-jsx": "^3.0.1",
+    "eslint-config-standard-react": "^4.0.2",
+    "eslint-plugin-mocha": "^4.5.1",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-react": "^6.2.2",
+    "eslint-plugin-require-path-exists": "^1.1.5",
+    "eslint-plugin-standard": "^2.0.0"
+  }
+}
